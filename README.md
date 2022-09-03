@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defMyself
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning Android security
+- 👀 I’m interested in hacking & software development
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
